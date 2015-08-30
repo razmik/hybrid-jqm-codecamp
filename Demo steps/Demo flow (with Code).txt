@@ -1,7 +1,7 @@
 Environment Setup:
 https://cordova.apache.org/docs/en/4.0.0/guide_platforms_android_index.md.html
 
-My Guide - https://github.com/razmik/nsbm-codecamp/wiki/Hybrid-Mobile-App-Development---Getting-Started-Guide
+My Guide - https://github.com/razmik/hybrid-jqm-codecamp/wiki
 
 1. Create the app using cordova create. Add android platform. Update the config file.
 	cordova create codecamp demo.hybrid.jqm "Hybrid Mobile Codecamp"
