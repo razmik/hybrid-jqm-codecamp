@@ -44,6 +44,7 @@ My Guide - https://github.com/razmik/nsbm-codecamp/wiki/Hybrid-Mobile-App-Develo
 	5.1 Cordova plugin registry.
 	5.2 Add camera plugin. - cordova plugin add cordova-plugin-camera
 	5.3 Create camera.js. Add plugin code and go through plugin API.
+	5.4 Clear the images
 	
 	In Step 5 folder, you can find the completed code upto this.
 	
